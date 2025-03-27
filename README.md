@@ -4,7 +4,7 @@ Welcome to my TAIKAI! This project showcases my skills, projects, and experience
 PROJECT CREATED AS PER PROBLEM STATEMENT DURING TechNOVATE 2K25  
 
 ### Live Website: [https://taikai.vercel.app/](https://taikai.vercel.app/)  
-<a href="https://taikai.vercel.app/" target="_blank">
+<a href="https://www.ayanbhaumik.in/" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio">
 </a>  
 
