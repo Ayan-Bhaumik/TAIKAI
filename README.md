@@ -1,6 +1,6 @@
 # TAIKAI 
 
-Welcome to my TAIKAI! This project showcases my skills, projects, and experiences as a app/web developer. It is designed to provide an overview of my background, display my project. 
+Welcome to my TAIKAI! This project showcases my skills, projects, and experiences as a app/web developer.
 PROJECT CREATED AS PER PROBLEM STATEMENT DURING TechNOVATE 2K25  
 
 ### Live Website: [https://taikai.vercel.app/](https://taikai.vercel.app/)  
